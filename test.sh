@@ -1,3 +1,3 @@
-sudo mkdir /home/ec2-user/test
-sudo cd /home/ec2-user/test
+sudo mkdir /etc/test
+sudo cd /etc/test
 sudo touch file{1..5}.txt
